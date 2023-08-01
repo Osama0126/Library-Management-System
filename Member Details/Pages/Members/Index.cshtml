@@ -1,0 +1,37 @@
+﻿@page
+@model Member_Details.Pages.Members.IndexModel
+@{
+}
+
+<br>
+<h2>List Of Members</h2>
+<a class=' btn btn-primary btn-sm' href='/Members/Create'>New Member</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>D.O.B</th>
+            <th>Gender</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.ListMembers)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.email</td>
+                <td>@item.phone</td>
+                <td>@item.dob</td>
+                <td>@item.gender</td>
+                <td>
+                    <a class="btn btn-primary btm-sm" href="/Members/Edit?id=@item.id">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Members/Delete?id=@item.id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

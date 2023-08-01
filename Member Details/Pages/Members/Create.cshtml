@@ -1,0 +1,147 @@
+﻿@page
+@model Member_Details.Pages.Members.CreateModel
+@{
+}
+
+<br>
+<h2>New Member</h2>
+
+@if (Model.errorMessage.Length>0)
+{
+    <div class='alert alert-warning alert-dismissable fade-show' role='alert'>
+        <strong>@Model.errorMessage</strong>
+        <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+    </div>
+}
+<form method="POST">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Name</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="name" value="@Model.memberInfo.name" >
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Email</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="email" value="@Model.memberInfo.email">
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Phone</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="phone" value="@Model.memberInfo.phone">
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">D.O.B</label>
+        <div class="col-sm-6">
+            <input type="date" class="form-control" name="dob" value="@Model.memberInfo.dob">
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Gender</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="gender" value="@Model.memberInfo.gender">
+        </div>
+    </div>
+
+    @if (Model.successMessage.Length>0)
+    {
+        <div class="row-mb-3">
+            <div class='alert alert-sucess alert-dismissable fade show' role="alert">
+                <strong>@Model.successMessage</strong>
+                <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+            </div>
+            </div>
+    }
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+        </div>
+        </div>
+    </div>
+
+
+</form>
+
+<head>
+    <style>
+    body {
+        padding: 20px;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+    }
+
+    .row {
+        margin-bottom: 15px;
+    }
+
+    .alert {
+        margin-bottom: 15px;
+    }
+
+    .btn-close {
+        padding: 5px;
+    }
+
+    .btn-primary,
+    .btn-outline-primary {
+        width: 100%;
+    }
+
+    /* Optional: Add more custom styles for form elements */
+    input[type="text"],
+    input[type="date"] {
+        /* Add any specific styles for text and date inputs */
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    /* Optional: Adjust the layout for the form fields and labels */
+    label {
+        font-weight: bold;
+        margin-right: 10px;
+    }
+
+    .col-sm-6,
+    .col-sm-3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .d-grid {
+        display: grid;
+    }
+
+    /* Optional: Styling for success alert */
+    .alert-success {
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+        color: #155724;
+    }
+
+    /* Optional: Styling for warning alert */
+    .alert-warning {
+        background-color: #fff3cd;
+        border-color: #ffeeba;
+        color: #856404;
+    }
+
+    /* Optional: Override Bootstrap alert close button style */
+    .btn-close {
+        cursor: pointer;
+    }
+</style>
+
+</head>

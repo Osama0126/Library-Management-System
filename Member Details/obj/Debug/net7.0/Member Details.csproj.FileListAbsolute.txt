@@ -1,0 +1,38 @@
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\appsettings.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\Member Details.staticwebassets.runtime.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\Member Details.exe
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\Member Details.deps.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\Member Details.runtimeconfig.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\Member Details.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\Member Details.pdb
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.csproj.AssemblyReference.cache
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.AssemblyInfoInputs.cache
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.AssemblyInfo.cs
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.csproj.CoreCompileInputs.cache
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.RazorAssemblyInfo.cache
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.RazorAssemblyInfo.cs
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets\msbuild.Member Details.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets\msbuild.build.Member Details.props
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Member Details.props
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Member Details.props
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\scopedcss\bundle\Member Details.styles.css
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\scopedcss\projectbundle\Member Details.bundle.scp.css
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.csproj.CopyComplete
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\refint\Member Details.dll
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.pdb
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\Member Details.genruntimeconfig.cache
+C:\Users\OSAMA USSAID\Desktop\BPK Project1 dummy\Member Details\Member Details\obj\Debug\net7.0\ref\Member Details.dll
